@@ -11,6 +11,7 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Math
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of my leetcode solves
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -31,4 +33,8 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
