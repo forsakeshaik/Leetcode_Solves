@@ -30,6 +30,7 @@ A collection of my leetcode solves
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
