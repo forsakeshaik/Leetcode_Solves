@@ -29,6 +29,7 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
