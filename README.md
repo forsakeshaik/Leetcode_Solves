@@ -21,6 +21,7 @@ A collection of my leetcode solves
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0014-longest-common-prefix) |
+| [1894-merge-strings-alternately](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1894-merge-strings-alternately](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
