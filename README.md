@@ -7,6 +7,7 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,9 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
