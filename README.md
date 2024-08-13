@@ -24,6 +24,7 @@ A collection of my leetcode solves
 | [0003-longest-substring-without-repeating-characters](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0020-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -48,4 +49,8 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
