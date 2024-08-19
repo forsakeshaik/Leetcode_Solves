@@ -26,6 +26,7 @@ A collection of my leetcode solves
 | [0013-roman-to-integer](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/1894-merge-strings-alternately) |
 ## Trie
 |  |
@@ -41,6 +42,7 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0392-is-subsequence](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -59,4 +61,8 @@ A collection of my leetcode solves
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0682-baseball-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/forsakeshaik/Leetcode_Solves/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
